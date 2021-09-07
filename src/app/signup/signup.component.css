@@ -1,0 +1,33 @@
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: blue;
+    color: whitesmoke;
+    padding: 14px 20px;
+    margin:20px 500px 10px 500px;
+    border: darkblue;
+    border-radius: 200px;
+    cursor: pointer;
+    width: auto;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  
+  
+  .container {
+    padding: 16px;
+  }  
+  
+  body{
+    background-color: lightgoldenrodyellow;
+  }

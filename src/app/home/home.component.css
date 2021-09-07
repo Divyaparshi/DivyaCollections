@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.card-deck{
+    margin: 20px 20px 0px 20px;
+}
+.img{
+    height: 250px;
+    margin: 10px 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 250px;
+}
+.card{
+    height: 350px;
+    width: 250px;
+    padding: 5px;
+    margin: 30px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}

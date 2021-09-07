@@ -1,0 +1,32 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    font-style: oblique;
+    color: darkorchid;
+    padding: 2%;
+}
+
+.card-deck{
+    margin: 20px 20px 0px 20px;
+}
+.img{
+    height: 200px;
+    margin: 5px 5px;
+    padding: 15%;
+    width: 200px;
+}
+.card{
+    height: 350px;
+    width: 250px;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: inherit;
+    font-style: italic;
+    background-color: aquamarine;
+}
